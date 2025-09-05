@@ -12,7 +12,7 @@ site_theme               : "default"
 title                    : "Mohmaed Kotb Selim's Personal Webpage"
 title_separator          : "-"
 name                     : &name "Your Name"
-description              : &description "personal description"
+#description              : &description "personal description"
 url                      : https://mokselim.github.io 
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
