@@ -24,7 +24,7 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Mohamed Kotb Selim"
-  pronouns         : # example: "He/Him"  
+  pronouns         : "He/Him"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Earth"
   employer         : "University of Nottingham"
