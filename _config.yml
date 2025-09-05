@@ -26,7 +26,7 @@ author:
   name             : "Mohamed Kotb Selim"
   pronouns         : "He/Him"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
+  location         : "Nottingham / Alicante / Cairo"
   employer         : "University of Nottingham"
   uri              : # URL
   email            : "mohamed.selim@nottingham.ac.uk" 
@@ -37,7 +37,7 @@ author:
   impactstory      : # URL
   orcid            : "https://orcid.org/0000-0001-8610-3147"
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+ # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
   scopus           : # URL
 
