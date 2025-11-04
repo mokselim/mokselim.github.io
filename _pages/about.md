@@ -7,7 +7,17 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+I am a physicist turned neuroscience researcher focused on advancing brain structure and function understanding through data science and neuroradiology, aiming to improve diagnostics and treatments for neurological and psychiatric disorders.
+
+I completed my PhD at the Institute of Neurosciences in Alicante under Prof. Santiago Canals and Dr. Silvia de Santis, studying white matter disruption in alcohol use disorder and demonstrating the neuroprotective effects of deep transcranial magnetic stimulation (dTMS) via multimodal neuroimaging and psychological assessments.
+
+My postdoctoral work at the Sir Peter Mansfield Imaging Centre, University of Nottingham (UK), in Prof. Stamatios Sotiropoulos’ group, as part of the NIH-funded BRAIN Initiative, focused on mesoscale connectomics and advanced diffusion MRI modeling to enhance brain tractography accuracy. This involved collaborations with the University of Oxford and the University of Minnesota.
+
+Additional experience includes a research internship at Cliniques Universitaires Saint-Luc (Brussels), applying machine learning to identify digital biomarkers for alcohol detoxification, and advanced training at UCLouvain (Belgium), LMU (Germany), Karolinska Institute (Sweden), and Radboud University (Netherlands).
+
+I was awarded the INPhINIT "la Caixa" Foundation Fellowship (EU co-funded) for my PhD and the Severo Ochoa Master Scholarship (CSIC) for my Master’s degree. My international mobility was supported by Miguel Hernández University and the European University of Neurotechnology (Neurotech-EU).
+
+Currently, I am Technical Manager of the Preclinical MRI Facility at the Institute of Neuroscience of Alicante and an Associate Research Fellow at the Sir Peter Mansfield Imaging Centre (UK) and Schulich School of Medicine, University of Western Ontario (Canada).
 
 A data-driven personal website
 ======
