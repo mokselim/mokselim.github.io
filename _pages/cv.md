@@ -22,10 +22,14 @@ Work experience
   * Duties includes: Updates and improvements to template
   * Supervisor: The Users
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2024-2025: Research Fellow
+  * University of Nottingahm 
+  * Duties included: Part of the NIH-funded BRAIN Initiative,
+focused on mesoscale connectomics. My research centers on developing advanced diffusion
+MRI modeling techniques to enhance the precision of brain tractography in both health and
+disease. This work involved collaborations with leading research groups at the University of
+Oxford and the University of Minnesota.
+  * Supervisor: Prof. Stamatios N Sotiropoulos 
 
 * Summer 2015: Research Assistant
   * GitHub University
