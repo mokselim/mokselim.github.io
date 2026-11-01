@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Mohamed Kotb Selim"
+title                    : "Mohamed Kotb Selim, PhD"
 title_separator          : "-"
 name                     : &name "Mohamed Kotb Selim"
 description              : &description "Mohamed Kotb Selim – neuroscientist working on computational neuroimaging, brain connectomics and MRI of brain disorders"   # Update this with a general description of your site, this is the default if not overridden by a page
