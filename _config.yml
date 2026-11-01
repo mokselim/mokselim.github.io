@@ -25,7 +25,7 @@ author:
   # Biographic information
   avatar           : "profile.jpg"
   name             : "Mohamed Kotb Selim"
-  pronouns         : # example: "she/her"  
+  pronouns         : "He/Him"  
   bio              : "Researcher & Preclinical MRI Facility Manager. Computational neuroimaging, brain connectomics and MRI in brain disorders."
   location         : "Alicante, Spain"
   employer         : "Instituto de Neurociencias CSIC-UMH"
@@ -57,7 +57,7 @@ author:
 
   # Social media
   artstation       : # Username
-  bluesky          : # Replace this with you Bluesky username
+  bluesky          : "mokselim"
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
