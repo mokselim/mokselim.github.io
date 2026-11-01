@@ -23,7 +23,7 @@ repository               : "mokselim/mokselim.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   name             : "Mohamed Kotb Selim"
   pronouns         : # example: "she/her"  
   bio              : "Researcher & Preclinical MRI Facility Manager. Computational neuroimaging, brain connectomics and MRI in brain disorders."
@@ -35,7 +35,7 @@ author:
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : # URL - add your Google Scholar profile link
+  googlescholar    : "https://scholar.google.com/citations?user=bDpf2-8AAAAJ&hl=en"
   inspire-hep      : # URL
   impactstory      : # URL
   orcid            : "https://orcid.org/0000-0001-8610-3147"
