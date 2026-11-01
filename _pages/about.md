@@ -13,11 +13,11 @@ My research combines machine learning, multimodal neuroimaging, microscopy, immu
 
 Research interests
 ======
-* Brain disorders (alcohol use disorder, aging, Alzheimer's disease).
-* Computational neuroimaging and MRI.
-* Brain connectomics and tractography.
-* Preclinical models.
-* Neuro-inspired systems.
+* Mental disorders (alcohol use disorder, ...)
+* Computational neuroimaging and MRI
+* Brain connectomics and tractography
+* Preclinical models
+* Neuro-inspired systems
 
 Background
 ======
